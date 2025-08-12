@@ -1,0 +1,4 @@
+https://www.google.com
+https://www.amazon.com.br
+https://openai.com
+https://golang.org
