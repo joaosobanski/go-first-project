@@ -5,6 +5,7 @@
 - go get -u github.com/gorilla/mux
 - go get -u gorm.io/gorm
 - go get gorm.io/driver/postgres
+- go get github.com/gorilla/handlers
 
 ## Postgres
 
